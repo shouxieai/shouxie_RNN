@@ -1,0 +1,8 @@
+new_poetry_5.txt : 5言绝句
+poetry_200.txt : 5言绝句的200首
+pytorch_掉包RNN.py : 使用pytorch掉包完成rnn
+rnn_手写.py : 纯手写RNN, 包括forward, backward
+torch_古诗生成_rnn.py : 使用pytorch组装rnn, 只包含了 forward部分, back交给了pytorch完成
+vec1.pkl : 字向量1 # (前200首诗的字向量)
+vec2.pkl : 字向量2
+vec3.pkl : 字向量3
